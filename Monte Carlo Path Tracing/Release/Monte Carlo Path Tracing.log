@@ -1,0 +1,103 @@
+﻿  BVH.cpp
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(11,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(12,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(47,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(78,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(79,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BVH.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BVH.cpp(42,21): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(11,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(12,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(47,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(78,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(79,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(15,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(17,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\OBJ_Loader.hpp(648,43): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\OBJ_Loader.hpp(685,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\OBJ_Loader.hpp(691,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\OBJ_Loader.hpp(945,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Triangle.h(191,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Triangle.h(273,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Triangle.h(276,1): warning C4305: “参数”: 从“double”到“float”截断
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(3382,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\main.cpp(41): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+  Renderer.cpp
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(11,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(12,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(47,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(78,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(79,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(15,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(17,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(9,60): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(11,30): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(17,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(34,59): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(51,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(68,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(93,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(97,28): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Renderer.cpp(98,32): warning C4018: “<”: 有符号/无符号不匹配
+  Scene.cpp
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(11,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(12,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\global.h(47,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(16,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Ray.h(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(21,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(22,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(78,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\BoundBox.h(79,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(15,30): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.h(17,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Scene.cpp(195,36): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  Vector.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Material.h(102): warning C4715: “Material::pdf”: 不是所有的控件路径都返回值
+C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Monte Carlo Path Tracing\Material.h(88): warning C4715: “Material::sample”: 不是所有的控件路径都返回值
+  All 1345 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Monte Carlo Path Tracing.vcxproj -> C:\Users\zjq19\source\repos\Monte Carlo Path Tracing\Release\Monte Carlo Path Tracing.exe
